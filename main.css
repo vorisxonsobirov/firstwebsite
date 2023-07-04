@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.nav_logo{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.nav_logo button{
+    width: 60px;
+    height: 20px;
+    border: none;
+}
+.section1{
+    padding: 20px;
+}
+.text{
+    width: 900px;
+    line-height: 50px;
+    padding-top: 100px;
+}
+.btn button{
+    width: 200px;
+    height: 40px;
+    border: none;
+    font-size: 24px;
+    background-color: rebeccapurple;
+    color: white;
+    margin-top: 80px;
+}
